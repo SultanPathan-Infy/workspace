@@ -5,6 +5,7 @@ export default function Excersice2() {
     <>
       <div>
         <h1>Excersice2</h1>
+        <div></div>
       </div>
     </>
   );
